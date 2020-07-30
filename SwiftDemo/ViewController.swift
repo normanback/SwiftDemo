@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    func addController() {
+        // This will add some controller!
+    }
 
 
 }
