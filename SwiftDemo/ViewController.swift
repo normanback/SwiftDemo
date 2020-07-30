@@ -18,7 +18,15 @@ class ViewController: UIViewController {
     func addController() {
         // This will add some controller!
     }
-
+    
+    func removeController() {
+        // This will remove some controller!
+    }
+    
+    func modifyController() {
+        // This will update some controller!
+    }
+ 
 
 }
 
